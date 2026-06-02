@@ -22,4 +22,4 @@ Developed an Instagram Analytics Dashboard to analyze use engagement, likes , co
 - User Engagement Insights
 
 ## Outcome
-Provided actionable insights to understand audience behavior and improve social media performance
+Provided actionable insights to understand audience behavior and improve social media performance.
